@@ -1,0 +1,40 @@
+.search-bar {
+    display: block;
+    top: 50%;
+    width: 100%;
+    position: relative;
+}
+
+.search-form {
+    display: block;
+}
+
+.searchinput {
+    padding: 1% 2%;
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 2%;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+
+.App {
+    height: 100vh;
+}
+
+.submit-button {
+    background-color: #E3DC95;
+    border: none;
+    color: white;
+    padding: 10px 30px;;
+    display: block;
+    margin: 10px auto;
+}
+
+.submit-button:hover {
+    background-color: #51513D;
+    color: white;
+}
+
