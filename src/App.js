@@ -16,8 +16,6 @@ componentDidMount() {
     });
 }
 
-
-
   render() {
     return (
       <div className="App">
